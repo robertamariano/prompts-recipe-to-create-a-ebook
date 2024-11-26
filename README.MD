@@ -31,8 +31,7 @@ META AI：
 - Conteúdo gerado via ChatGPT
 - Imagem de capa gerada via META AI
 
-[Ebook_1.pdf]
-(https://github.com/robertamariano/prompts-recipe-to-create-a-ebook/blob/a54a8f7930787054f9a3196d9fb3cac8c736ab8e/Ebook_1.pdf)
+Link E-book: https://github.com/robertamariano/prompts-recipe-to-create-a-ebook/blob/a54a8f7930787054f9a3196d9fb3cac8c736ab8e/Ebook_1.pdf
 
 ## 📚 Materiais
 
