@@ -17,13 +17,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie 5 títulos para um ebook sobre viagens com linguagem despojada. deve conter subtítulo e dizer que serão dadas 5 dicas para viajantes inexperientes                                                    |
-| conteúdo | faça um texto para ebook, com foco em viagens para quem não tem experiência, listando as cinco principais dicas
-
-{REGRAS}
->explique de uma maneira simples
->deixe o texto enxuto
->traga exemplos em contextos reais
->sempre deixe um título sugestivo por tópico |
+| conteúdo | faça um texto para ebook, com foco em viagens para quem não tem experiência, listando as cinco principais dicas REGRAS >explique de uma maneira simples >deixe o texto enxuto traga exemplos em contextos reais >sempre deixe um título sugestivo por tópico |
 
 
 META AI：
